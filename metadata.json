@@ -1,0 +1,6 @@
+{
+  "name": "Chaos Dynamics Solver",
+  "description": "Interactive 3D chaos solver, time-series oscilloscope, and 2D phase portrait visualizer for Lorenz and Sprott nonlinear dynamical systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
